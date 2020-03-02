@@ -59,4 +59,4 @@ and even add weight information.
 You can type (a part of) a word to select all tokens that have it in the **_cws.[whatever]** column (first search box) or in the concordance in general (second search box).
 
 ## Download
-
+You can download the installer [here](https://github.com/montesmariana/simplenepho/tree/master/Download).

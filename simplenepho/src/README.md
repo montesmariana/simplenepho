@@ -58,3 +58,7 @@ and even add weight information.
 
 ### Find tokens
 You can type (a part of) a word that you could encounter in the _cws.[whatever] column to select all tokens that have it.
+
+# Latest version
+
+- Bug fixes for vulnerabilities
